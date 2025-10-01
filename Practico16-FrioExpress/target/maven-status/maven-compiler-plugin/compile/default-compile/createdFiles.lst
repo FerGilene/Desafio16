@@ -1,0 +1,6 @@
+modelo\Producto.class
+controlador\ProductoController.class
+controlador\ClienteController.class
+modelo\Cliente.class
+modelo\Pedido.class
+com\mycompany\practico16\frioexpress\Practico16.class
